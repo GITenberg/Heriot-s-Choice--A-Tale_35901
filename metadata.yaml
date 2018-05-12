@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1352
     wikipedia: https://en.wikipedia.org/wiki/Rosa_Nouchette_Carey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35901#Heriot-s-Choice--A-Tale
 gutenberg_issued: '2011-04-18'
 gutenberg_type: Text
 identifiers:
